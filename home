@@ -1,0 +1,11 @@
+#home 
+text <El buscador para estudiantes, profesionales y cientificos> 
+text <Este navegador realiza busquedas como fuente en libros, revistas academicas, presentaciones profesionales, etc>
+text <Esta dedicado especialmente para estudiantes, profesionales y personas que necesitan realizar investigaciones cientificas>
+text <how it works> <mainly principles or fundamentals of this search engine>
+text <is totally independent from the criteria or results of others web browsers>
+text <is no based on the statics or trending search from the people> 
+text <don-t collect information of the users of the search engine>
+text <is only for academic or scientific purpose>
+text <the guidelines of this search engine is only publish official statements and publications that helps to prevent misfalse information or data>
+field -ingrese el termino a buscar, []
